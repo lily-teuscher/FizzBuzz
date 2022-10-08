@@ -1,3 +1,4 @@
+#FizzBuzz program in Python; Created on 10/08/2022
 import math
 
 def main(): 
@@ -12,4 +13,5 @@ def main():
             print(num)
     
     print(num)
+
 main()
